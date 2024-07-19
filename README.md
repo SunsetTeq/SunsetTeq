@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🔭 Now I'm solving algorithmic problems in C++
-- 🌱 I'm currently learning mathematics and the Golang programming language
-- 💬 Ask me about: do not ask me
+- 🔭 Now I'm solving algorithmic problems in C++ and learning the backend in Go
+- 🔮 My love is Go Go Go Go Golang
+- 💬 Ask me about: meta skills
