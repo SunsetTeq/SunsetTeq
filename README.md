@@ -1,4 +1,4 @@
 ### Hi there 👋
-- 🔭 Now I'm solving algorithmic problems in C++ and learning the backend in Go
-- 🔮 My love is Go Go Go Go Golang
-- 💬 Ask me about: meta skills
+- 🔭 Now I’m building frontend apps with TypeScript (React ecosystem)
+- 🔮 TypeScript is my go-to — clean types, clean UI
+- 💬 Ask me about: frontend, state management, API integration, meta skills
